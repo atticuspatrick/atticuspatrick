@@ -12,8 +12,8 @@
 
 
 ### What I'm working on  
-I am a senior studying at the University of Vermont and I am graduating in the Spring of 2023. My main focuses within data science are sports analytics, particularly soccer analytics, as well as geospatial analytics. The majority of my work here is performed using Python and R.  
-  
+I am a senior studying at the University of Vermont and I am graduating in the Spring of 2023. My main focus within data science is sports analytics, particularly soccer analytics. The majority of my work here is performed using Python and R.  
+
 
 <br/>  
 

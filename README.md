@@ -12,7 +12,7 @@
 
 
 ### What I'm working on  
-I am a data analyst at IXIS with a passion for data driven projects, visualizations, and insights. My main areas of interest within data science are sports analytics, particularly soccer analytics, and the depth and variety of applications of machine learning and statistical learning. The majority of my work here is performed using Python and R.
+I am a data analyst at IXIS with a passion for data driven projects, visualizations, and insights. My main areas of interest within data science are within public health and sports analytics, particularly soccer analytics, and the depth and variety of applications of machine learning and statistical learning. The majority of my work here is performed using Python and R.
 
 Feel free to check out some of my projects below!
 
